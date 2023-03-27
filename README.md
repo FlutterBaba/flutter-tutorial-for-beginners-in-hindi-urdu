@@ -1,16 +1,8 @@
-# flutter_beginners_course
 
-A new Flutter project.
+- [# Watch on YouTube](https://www.youtube.com/watch?v=r6FmGVNMx1w&t=135s)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- [# Facebook Page](https://bit.ly/3570AUx)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![New Project (1) (2)](https://user-images.githubusercontent.com/72684684/121431375-c015e280-c992-11eb-8c41-dd55f2dc8e67.png)
